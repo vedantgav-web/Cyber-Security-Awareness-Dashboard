@@ -1,6 +1,6 @@
 export default function AttackCard({ data }) {
   return (
-    <div className="h-screen w-full flex items-center justify-center snap-start p-4 md:p-10 bg-slate-50 border-b border-gray-200">
+    <div className="h-screen w-full flex items-center justify-center snap-start p-4 md:p-10 bg-[#1E293B] border-b border-gray-200">
       <div className="max-w-5xl w-full bg-white shadow-2xl rounded-3xl overflow-hidden border border-gray-100 flex flex-col md:flex-row h-[90vh]">
         
         {/* Left Side */}
